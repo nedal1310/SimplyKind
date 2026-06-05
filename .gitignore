@@ -39,3 +39,17 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# output
+output.txt
+structure.txt
+
+# MongoDB / local db
+*.db
+
+# Editor configs (optional, team preference)
+.vscode/
+.idea/
+
+# Razorpay / payment test logs (if any)
+*.log
